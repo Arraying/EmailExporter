@@ -1,2 +1,12 @@
 .idea/
 venv/
+tmp.mbox
+tmp_py.txt
+tmp_rs.txt
+
+# Cargo stuff
+debug/
+target/
+Cargo.lock
+**/*.rs.bk
+*.pdb
